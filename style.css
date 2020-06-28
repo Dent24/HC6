@@ -1,0 +1,19 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 微軟正黑體;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background: #c25a85;
+}
+
+div {
+  text-align: center;
+  padding: 30px auto;
+  color: #65aaca;
+}
+/*# sourceMappingURL=style.css.map */
