@@ -9,11 +9,12 @@
 
 body {
   background: #c25a85;
+  height: 3000px;
 }
 
 div {
   text-align: center;
-  padding: 30px auto;
+  padding: 30px;
   color: #79c3e6;
   font-size: 60px;
 }

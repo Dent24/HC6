@@ -10,11 +10,12 @@ $blue: rgb(121, 195, 230);
 
 body{
     background: $pink;
+    height: 3000px;
 }
 
 div{
     text-align: center;
-    padding: 30px auto;
+    padding: 30px;
     color: $blue;
     font-size: 60px;
 }
