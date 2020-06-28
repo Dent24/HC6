@@ -1,3 +1,6 @@
+$pink: rgb(194, 90, 133);
+$blue: rgb(121, 195, 230);
+
 *{
     margin: 0;
     padding: 0;
@@ -6,11 +9,12 @@
 }
 
 body{
-    background: rgb(194, 90, 133);
+    background: $pink;
 }
 
 div{
     text-align: center;
     padding: 30px auto;
-    color: rgb(101, 170, 202);
+    color: $blue;
+    font-size: 60px;
 }
